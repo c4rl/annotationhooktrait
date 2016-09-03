@@ -1,6 +1,6 @@
 <?php
 
-namespace AE;
+namespace Aht;
 
 class A {
   use AnnotationHookTrait;

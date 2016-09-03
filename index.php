@@ -2,7 +2,7 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use AE\C;
+use Aht\C;
 
 $c = new C();
 

@@ -2,7 +2,7 @@
     "name": "c4rl/annotations_example",
     "autoload": {
         "psr-4": {
-            "AE\\": "lib/"
+            "Aht\\": "lib/"
         }
-    },
+    }
 }
